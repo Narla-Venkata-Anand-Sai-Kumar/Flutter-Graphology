@@ -12,7 +12,7 @@ Flutter-Graphology is a Flutter application designed for graphology enthusiasts 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/Flutter-Graphology.git
+   git clone https://github.com/Narla-Venkata-Anand-Sai-Kumar/Flutter-Graphology.git
    ```
 
 2. Navigate to the project directory:
